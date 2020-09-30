@@ -1,0 +1,1422 @@
+/*-----------------------home Section------------------------*/
+
+/*-------header------*/
+header {
+    background-image: url(../img/banner.png);
+    background-repeat: repeat;
+    display: block;
+    overflow: hidden;
+    height: 785px;
+    background-size: cover;
+}
+
+/*-----------Nav Section----------*/
+.logo {
+    margin-top: 30px;
+}
+
+
+.logo img {
+    width: 133px;
+    height: 24px;
+}
+
+
+.menu {
+
+}
+
+
+.menu ul {
+    list-style: none;
+    margin: 0px 0px 0px 29px;
+}
+
+
+.menu ul li {
+    display: inline;
+    margin: 0px 0;
+}
+
+
+.nav-link {
+    width: 113px;
+    float: left;
+    color: white;
+    margin-top: 30px;
+}
+
+
+.nav-link:hover {
+    background-color: unset;
+}
+
+
+
+/*-----------title Section----------*/
+.had {
+    margin: 162px 0 0 0;
+}
+
+
+.title {
+
+}
+
+
+.title h1 {
+    color: white;
+    text-align: center;
+    /* font-family: lato black; */
+    font-size: 38px;
+    margin-bottom: 40px;
+}
+
+b {
+    font-size: 60px;
+    margin-right: 16px;
+}
+
+hr {
+    border: 1px solid #F51A5A;
+    width: 149px;
+    margin-bottom: 34px;
+    margin: 0 auto;
+    margin-bottom: 41px;
+    margin-top: 40px;
+}
+
+
+.title h2 {
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    width: 925px;
+    line-height: 27px;
+    margin-bottom: 160px;
+}
+
+
+.btn-a {
+    /* border: 2px solid #ed145b; */
+    margin-left: 346px;
+    padding: 17px 46px 17px 46px;
+    background-color: #ed145b;
+    color: white;
+    border-radius: 42px;
+    text-align: center;
+    font-size: 17px;
+    text-transform: uppercase;
+    list-style: none;
+    display: inline;
+}
+
+
+
+
+a:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #08cc08d9;
+    font-size: 17px;
+}
+
+
+
+
+
+.up {
+
+}
+
+
+.down {
+
+}
+
+
+
+
+
+
+
+
+
+/*-----------about Section----------*/
+#about {
+	background-color: #F4F4F4;
+	position: relative;
+}
+
+
+.about-one {
+	margin-top: 120px;
+}
+
+.borderr {
+	border: 1px solid #F51A5A;
+	width: 149px;
+	margin-right: 293px;
+	margin-bottom: 34px;
+}
+
+.about-one h1 {
+    font-size: 34px;
+	margin-bottom: 30px;
+}
+
+.about-one p{
+	font-size: 18px;
+}
+
+.about-two img {
+    width: 128%;
+    position: absolute;
+    top: 87px;
+}
+
+
+
+
+
+
+
+
+
+/*-----------Service Section----------*/
+#service {
+
+}
+
+
+.title-two {
+	margin-top: 133px;
+}
+
+
+
+.title-two h1 {
+	text-align: center;
+    font-size: 43px;
+    margin-bottom: 36px;
+}
+
+
+
+hr {
+	border: 1px solid #F51A5A;
+	width: 149px;
+	margin-bottom: 34px;
+	margin: 0 auto;
+	margin-bottom: 41px;
+}
+
+
+.title-two p {
+	margin: 0px 181px;
+	font-size: 16px;
+	margin-bottom: 68px;
+    text-align: center;
+}
+
+
+.service-box {
+
+}
+
+
+.service-box img {
+	margin-left: 61px;
+	margin-bottom: 135px;
+}
+
+
+
+
+
+
+
+
+
+
+/*-----------prices Section----------*/
+
+#prices {
+	background-color: #F4F4F4
+}
+
+
+
+/*---prices-contant---*/
+
+
+
+
+/*-----------price-box------*/
+.price-box {
+		text-align: center;
+		margin-bottom: 92px;
+}
+
+
+.price-box-top {
+	    background-color: #5a5a5a;
+	    font-weight: bold;
+	    padding: 15px 0 45px 0;
+	    position: relative;
+}
+
+.price-box:hover .price-box-top {
+		background-color: #ed145b;
+}
+
+.price-box-top h1 {
+	    font-size: 60px;
+	    font-style: normal;
+	    font-family: arial;
+	    color: #fff;
+	    padding: 0;
+	    margin: 0;
+}
+
+
+.price-box-top h1 span {
+		font-size: 25px;
+	    margin-right: 3px;
+}
+
+
+.price-box p {
+	    color: #fff;
+	    line-height: 20px;
+	    padding: 0;
+	    margin: 0;
+	    font-weight: bold;
+}
+
+
+.price-box ul {
+    background: white;
+    list-style: none;
+    padding-top: 50px;
+    padding-bottom: 116px;
+    position: relative;
+}
+
+
+.price-box ul li {
+    color: #545454;
+    font-size: 13px;
+    line-height: 30px;
+    margin-left: -36px;
+}
+
+
+.price-btn-top {
+    position: absolute;
+    top: 129px;
+    left: 54px;
+    color: #5a5a5a;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 60px;
+    background-color: #f4f4f4;
+    padding: 10px 51px 10px 50px;
+    border: 0;
+    text-align: center;
+    text-transform: uppercase;
+    border-color: transparent;
+}
+
+
+.btn {
+    border-color: transparent;
+    text-transform: uppercase;
+    /* font-weight: bold; */
+    background-color: #ed145b;
+    border: 0;
+    border-radius: 35px;
+    color: white;
+    font-size: 15px;
+    padding: 15px 50px 15px 50px;
+    position: absolute;
+    top: 353px;
+    left: 54px;
+}
+
+
+.btn:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #08cc08d9;
+}
+
+.no.padding {
+		margin: 0px;
+		padding: 0px;
+}
+
+
+
+
+
+
+
+/*-----------additional info Section----------*/
+.info {
+
+}
+
+.add {
+    margin: 70px 0 65px 0;
+}
+
+
+.img-one {
+
+}
+
+
+.img-one img {
+    
+}
+
+
+.info-box {
+
+}
+
+
+.info-box h1 {
+    font-size: 19px;
+    color: #ed145b;
+}
+
+
+.info-box p {
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+/*-----------Extra Section----------*/
+.extra {
+    background-color: #F51A5A
+}
+
+.extra-contant {
+    margin-top: 40px;
+}
+
+.extra-contant h1 {
+    font-size: 32px;
+    color: white;
+    margin-left: 49px;
+    margin-bottom: 44px;
+    position: relative;
+}
+
+
+
+
+.extra-hover {
+    border: 0;
+    color: red;
+    background-color: white;
+    position: absolute;
+    top: 23px;
+    right: 80px;
+    margin-left: 346px;
+    padding: 12px 46px 12px 46px;
+    border-radius: 42px;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    list-style: none;
+    display: inline;
+}
+
+
+.extra-hover:hover {
+    color: #ffffff;
+    background-color: #d13c3cb5;
+}
+
+
+
+
+
+
+
+
+
+/*-----------Our Latest Updates Section ----------*/
+.upp {
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+
+
+
+.updates-box {
+    margin-bottom: 60px;
+}
+
+
+.hov {
+    position: relative;
+    overflow: hidden;
+}
+
+.hov img {
+
+}
+
+
+
+.updates-box-a {
+    background-color: #f4f4f4;
+}
+
+
+.updates-box-a h1 {
+    font-size: 16px;
+    padding: 35px 15px 0px 15px;
+}
+
+
+.updates-box-a p {
+    font-size: 13px;
+    padding: 5px 15px 30px 15px;
+}
+
+
+
+
+.img-hover-icon {
+    position: absolute;
+    width: 360px;
+    height: 260px;
+    float: left;
+    top: 0;
+    background-color: #eb326f;
+    opacity: 0.5;
+    right: -100%;
+}
+
+.hov:hover .img-hover-icon {
+    right: 0;
+}
+
+
+
+.btn-c {
+    color: #ed145b;
+    font-size: 25px;
+    text-transform: uppercase;
+    list-style: none;
+    margin-left: 8px;
+}
+
+
+
+.btn-c:hover {
+    color: #1a8b04;
+    font-size: 25px;
+    background-color: unset;
+}
+
+
+
+
+
+
+
+/*-----------Info-two Section ----------*/
+.info-two {
+    background-image: url(../img/sider.png);
+    display: block;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+
+.title-five {
+
+}
+
+
+.title-five h1 {
+    text-align: center;
+    font-size: 38px;
+    color: white;
+    margin: 55px 0 30px 0;
+}
+
+
+
+.title-five p {
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    line-height: 31px;
+    margin: 45px 0 45px 0;
+}
+
+
+
+
+.borderr-three {
+    border: 1px solid #F51A5A;
+    width: 149px;
+    margin: 0 auto;
+}
+
+
+
+
+/*-----------DOWNLOAD NOW Section----------*/
+#download {
+    background-color: #f4f4f4;
+}
+
+
+
+.ui {
+    margin-top: 120px;
+    margin-bottom: 90px;
+}
+
+
+
+.ui img {
+    width: 647px;
+}
+
+
+
+.title-four {
+    margin-top: 180px;
+}
+
+
+
+.title-four h1 {
+    text-align: inherit;
+    font-size: 24px;
+}
+
+.borderr-one {
+    border: 1px solid #F51A5A;
+    width: 149px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+
+.title-four p {
+    font-size: 13px;
+    line-height: 25px;
+    margin-bottom: 56px;
+}
+
+
+
+.btn-d {
+    padding: 17px 35px 17px 35px;
+    background-color: #ed145b;
+    color: white;
+    border-radius: 42px;
+    text-align: center;
+    font-size: 17px;
+    text-transform: uppercase;
+    list-style: none;
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+/*----------footer Section----------*/
+footer {
+    background-color: #2b2b2b;
+
+}
+
+.qs {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.qw {
+
+}
+
+.qw h1 {
+    font-size: 11px;
+    color: white;
+    text-align: inherit;
+    margin-top: 20px;
+}
+
+
+.qa {
+
+}
+
+
+.qa h1 {
+    font-size: 11px;
+    color: white;
+    text-align: end;
+}
+
+.vb {
+    font-size: 18px;
+    margin: 0 3px 0 10px;
+}
+
+
+.vc {
+    color: #ed145b;
+    font-size: 27px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------=================---media qurei----==========================------*/
+@media (min-width: 0px) and (max-width: 500px) {
+
+
+/*-----------home Section----------*/
+
+
+/*--------menu------*/
+    .menu ul li {
+        display: none;
+        margin: 0px 0;
+}
+
+
+
+/*--------title------*/
+    .had {
+        margin: 167px 0 0 0;
+    }
+
+
+    .title h1 {
+        font-size: 32px;
+        margin-bottom: 40px;
+    }
+
+    b {
+        font-size: 51px;
+        margin-right: 15px;
+    }
+
+
+    hr {
+        width: 110px;
+        margin-bottom: 34px;
+    }
+
+
+    .title h2 {
+        font-size: 16px;
+        width: 299px;
+        margin-bottom: 56px;
+    }
+
+    .btn-a {
+        margin-left: 48px;
+        padding: 12px 46px 12px 46px; 
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+/*-----------about Section----------*/
+    #about {
+        background-color: #F4F4F4;
+        position: unset;
+    }
+
+    .about-two img {
+        width: 100%;
+        position: unset;
+        top: 43px;
+        margin-top: 38px;
+        margin-bottom: 40px;
+    }
+
+
+
+
+/*-----------service Section----------*/    
+.title-two {
+    margin-top: 70px;
+}
+
+
+.title-two p {
+    text-align: center;
+    width: 318px;
+    margin: 0px auto;
+    font-size: 16px;
+    margin-bottom: 68px;
+}
+
+.service-box{
+    position: unset;
+    width: 100%;
+}
+
+
+.service-box img {
+    margin-left: 116px;
+    margin-bottom: 85px;   
+}
+
+
+
+
+
+
+/*-----------service Section----------*/
+.price-btn-top {
+    top: 130px;
+    left: 87px;
+
+}
+
+
+.price-box ul li {
+    line-height: 26px;
+    margin-left: -27px;
+}
+
+
+.btn {
+    top: 353px;
+    left: 100px;
+}
+
+
+
+
+
+/*-----------info Section----------*/
+.add {
+    margin: 0px 0 0px 0;
+}
+
+
+.img-one {
+    margin-top: 30px;
+}
+
+.img-one img {
+    margin-bottom: 15px;
+}
+
+
+
+.info-box p {
+    margin-bottom: 42px;
+}
+
+
+
+
+
+
+
+/*-----------extra Section----------*/
+.extra-hover {
+    margin-bottom: 38px;
+    border-radius: 41px;
+    color: red;
+    background-color: white;
+    position: unset;
+    margin-left: 80px;
+}
+
+
+
+
+
+
+
+/*-----------Our Latest Updates Section----------*/
+.btn-c {
+    margin-left: 110px;
+}
+
+
+
+
+
+
+
+
+
+/*-----------DOWNLOAD NOW Section----------*/
+.ui {
+    margin-top: 51px;
+    margin-bottom: 0px;
+}
+
+
+.ui img {
+    width: 332px;
+}
+
+
+.title-four {
+    margin-top: 45px;
+    height: 480px;
+}
+
+
+.btn-d {
+    margin: 0 0px 0 48px;
+}
+
+
+
+
+
+
+
+/*-----------footer Section----------*/
+.qs {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+
+.qw h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.qa h1 {
+    font-size: 16px;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+/*--------=================---media qurei----==========================------*/
+@media (min-width: 767px) and (max-width: 1024px) {
+
+
+
+/*-----------home Section----------*/
+.menu ul {
+    margin: 0px 0px 0px -105px;
+}
+
+
+.nav-link {
+    float: left;
+    color: white;
+    margin-top: 30px;
+    margin-left: -22px;
+    font-size: 16px;
+}
+
+
+.title h2 {
+    font-size: 16px;
+    width: 555px;
+    line-height: 32px;
+}
+
+.btn-a {
+    margin-left: 174px;
+}    
+
+
+
+
+
+
+
+/*-----------about Section----------*/
+#about {
+    position: unset;
+}
+
+
+.about-one h1 {
+    text-align: center;
+}
+
+
+.about-one p {
+    font-size: 18px;
+    text-align: center;
+}    
+
+
+.about-two {
+    position: unset;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+
+
+
+.about-two img {
+    width: 170%;
+    position: unset;
+    margin-top: 80px;
+    margin-bottom: 75px;
+}
+
+
+
+
+/*-----------service Section----------*/
+.title-two h1 {
+    text-align: center;
+    font-size: 43px;
+    margin-bottom: 0px;
+}
+
+.title-two p {
+    margin: 0 auto;
+    font-size: 16px;
+    margin-bottom: 80px;
+    text-align: center;
+    width: 686px;
+}
+
+hr {
+    margin-top: 44px;
+}
+
+
+.title-two p {
+    margin: 0 auto;
+    font-size: 16px;
+    margin-bottom: 80px;
+    text-align: center;
+    width: 607px;
+}
+
+
+
+.service-box img {
+    margin-left: 0px;
+}
+
+
+
+
+
+
+
+/*-----------prices Section----------*/
+.price-box ul {
+    padding-bottom: 85px;
+}
+
+
+.price-btn-top {
+    top: 134px;
+    left: 22px;
+    font-size: 16px;
+    padding: 5px 25px 5px 25px;
+}
+
+.btn {
+    font-size: 15px;
+    padding: 5px 25px 5px 25px;
+    top: 336px;
+    left: 31px;
+}
+
+
+
+
+
+
+
+/*-----------info Section----------*/
+.img-one img {
+    width: 40px;
+}
+
+
+
+
+
+/*-----------extra Section----------*/
+.extra-contant h1 {
+    font-size: 32px;
+    color: white;
+    margin-left: 49px;
+    margin-bottom: 44px;
+    position: unset;
+}
+
+
+
+.extra-hover {
+    position: unset;
+    margin-left: 271px;
+    margin-bottom: 55px;
+}
+    
+
+
+
+
+
+
+/*-----------Our Latest Updates Section -----------*/
+.updates-box-a h1 {
+    font-size: 15px;
+}
+
+
+.img-hover-icon {
+    display: none;
+}
+
+
+.btn-c {
+    margin-left: -59px;
+}
+
+
+
+
+
+/*-----------Info-two Section-----------*/
+
+.title-five p {
+    margin: 45px -110px 45px -110px;
+}
+
+
+
+
+/*-----------DOWNLOAD NOW Section-----------*/
+#download {
+    height: 643px;
+}
+
+
+.ui {
+    margin-top: 165px;
+    margin-bottom: 0px;
+}
+
+.ui img {
+    width: 390px;
+}
+
+
+
+.title-four {
+    margin-top: 38px;
+}
+
+
+.btn-d {
+    padding: 10px 20px 10px 20px;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------=================---media qurei----==========================------*/
+@media (min-width: 1024px) and (max-width: 1366px) {
+
+
+
+/*-----------home Section----------*/
+.menu ul {
+    margin: 0px 0px 0px 22px;
+}
+
+.nav-link {
+    float: left;
+    color: white;
+    margin-top: 30px;
+    margin-left: -21px;
+    font-size: 16px;
+}
+
+.title h2 {
+    font-size: 16px;
+    width: 100%;
+    line-height: 32px;
+}
+
+.btn-a {
+    margin-left: 279px;
+}
+
+
+
+
+
+
+/*-----------about Section----------*/
+#about {
+    position: unset;
+}
+
+
+.about-one h1 {
+    text-align: center;
+}
+
+.borderr {
+    border: 1px solid #F51A5A;
+    width: 149px;
+    margin-right: 392px;
+    margin-bottom: 34px;
+}
+
+
+.about-one p {
+    font-size: 18px;
+    text-align: center;
+}    
+
+
+.about-two {
+    position: unset;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+
+
+
+.about-two img {
+    width: 171%;
+    position: unset;
+    margin-top: 80px;
+    margin-bottom: 75px;
+}
+
+
+
+
+
+
+
+/*-----------service Section----------*/
+.title-two h1 {
+    text-align: center;
+    font-size: 43px;
+    margin-bottom: 0px;
+}
+
+.title-two p {
+    margin: 0 auto;
+    font-size: 16px;
+    margin-bottom: 80px;
+    text-align: center;
+    width: 597px;
+}
+
+
+hr {
+    margin-top: 44px;
+}
+
+
+.title-two p {
+    margin: 0 auto;
+    font-size: 16px;
+    margin-bottom: 80px;
+    text-align: center;
+    width: 607px;
+}
+
+
+
+.service-box img {
+    margin-left: 45px;
+}
+
+
+
+
+
+
+
+/*-----------prices Section----------*/
+.price-box ul {
+    padding-bottom: 85px;
+}
+
+
+.price-btn-top {
+    top: 134px;
+    left: 53px;
+    font-size: 16px;
+    padding: 5px 25px 5px 25px;
+}
+
+.btn {
+    font-size: 15px;
+    padding: 5px 25px 5px 25px;
+    top: 349px;
+    left: 61px;
+}
+
+
+
+
+
+
+
+/*-----------info Section----------*/
+.img-one img {
+    width: 40px;
+}
+
+
+
+
+
+/*-----------extra Section----------*/
+.extra-contant h1 {
+    font-size: 32px;
+    color: white;
+    margin-left: 49px;
+    margin-bottom: 44px;
+    position: unset;
+}
+
+
+
+.extra-hover {
+    position: unset;
+    margin-left: 271px;
+    margin-bottom: 55px;
+}
+    
+
+
+/*-----------DOWNLOAD NOW Section----------*/
+.ui {
+    margin-top: 130px;
+}
+
+
+.title-four {
+    margin-top: 60px;
+}
+
+
+.title-four h1 {
+    margin-top: 61px;
+}
+
+
+
+
+/*----------- footer Section ----------*/
+.qw h1 {
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
